@@ -1,2 +1,4 @@
 # OwnPrototype
- 
+ This game allows the player to control a ball that is tasked with ascending a slope while Orbweavers drop spherical obstacles. The Orbweavers move randomly akin to the ApplePicker Apple Tree, and the player moves in a fashion similar to that of Roll-a-Ball. There is a goal at the top of the slope that ends the level once the player reaches it, and starts the round over at a higher difficulty. At higher levels, the Orbweavers move faster, and there's an additional Orbweaver. The Orbs dropped are considerably heavier than the Player, so they will drag the Player down upon collision.
+
+Mechanically, the game is straightforward as your propel your character forward. The Dynamic aspect of the game arises when the Orbweavers drop Orbs in a way that impedes your progress. The random nature of where they drop the ball and how the ball will bounce off of those around it creates a dynamic maze. Aesthetically, the walls of the slope are colored to give the player an indication of vertical height, as the color gets darker at the top of the slope.
